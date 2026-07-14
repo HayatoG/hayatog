@@ -7,16 +7,9 @@
 
 <div align="center">
 
-<!-- ░ RÓTULO · texto puro, carrega instantâneo ░ -->
-<sub>─&nbsp; **O&nbsp; A R T E S Ã O** &nbsp;─</sub>
-
-<!-- ░ NOME · único SVG do topo (herói) — o resto é texto puro ░ -->
-<img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&weight=500&size=88&duration=99999&pause=99999&color=0C0C0B&center=true&vCenter=true&width=760&height=120&lines=hayatog" alt="hayatog" />
-
----
-
-<!-- ░ QUOTE · itálico em texto puro, sem requisição externa ░ -->
-> *「 Levante a cabeça e prossiga com sua vida. 」*
+<!-- ░ BANNER · SVG local com sakura caindo (animação SMIL) ░ -->
+<!--    nome + rótulo + quote num único asset leve, hospedado no repo -->
+<img src="./.github/assets/sakura-banner.svg" alt="hayatog — o artesão · Levante a cabeça e prossiga com sua vida" width="100%" />
 
 <br/>
 
@@ -41,27 +34,27 @@
 
 > **⌂ línguas de aço** — as lâminas que carrego todo dia.
 
-![Rust](https://img.shields.io/badge/Rust-0C0C0B?style=flat-square&logo=rust&logoColor=F4F2EC&labelColor=F4F2EC&color=0C0C0B)
-![Go](https://img.shields.io/badge/Go-0C0C0B?style=flat-square&logo=go&logoColor=F4F2EC&labelColor=F4F2EC&color=0C0C0B)
-![C](https://img.shields.io/badge/C-0C0C0B?style=flat-square&logo=c&logoColor=F4F2EC&labelColor=F4F2EC&color=0C0C0B)
-![C++](https://img.shields.io/badge/C++-0C0C0B?style=flat-square&logo=cplusplus&logoColor=F4F2EC&labelColor=F4F2EC&color=0C0C0B)
-![Kotlin](https://img.shields.io/badge/Kotlin-0C0C0B?style=flat-square&logo=kotlin&logoColor=F4F2EC&labelColor=F4F2EC&color=0C0C0B)
-![Dart](https://img.shields.io/badge/Dart-0C0C0B?style=flat-square&logo=dart&logoColor=F4F2EC&labelColor=F4F2EC&color=0C0C0B)
+![Rust](https://img.shields.io/badge/Rust-0C0C0B?style=flat-square&logo=rust&logoColor=0C0C0B&labelColor=F4F2EC&color=0C0C0B)
+![Go](https://img.shields.io/badge/Go-0C0C0B?style=flat-square&logo=go&logoColor=0C0C0B&labelColor=F4F2EC&color=0C0C0B)
+![C](https://img.shields.io/badge/C-0C0C0B?style=flat-square&logo=c&logoColor=0C0C0B&labelColor=F4F2EC&color=0C0C0B)
+![C++](https://img.shields.io/badge/C++-0C0C0B?style=flat-square&logo=cplusplus&logoColor=0C0C0B&labelColor=F4F2EC&color=0C0C0B)
+![Kotlin](https://img.shields.io/badge/Kotlin-0C0C0B?style=flat-square&logo=kotlin&logoColor=0C0C0B&labelColor=F4F2EC&color=0C0C0B)
+![Dart](https://img.shields.io/badge/Dart-0C0C0B?style=flat-square&logo=dart&logoColor=0C0C0B&labelColor=F4F2EC&color=0C0C0B)
 
 > **⌂ o ofício mobile** — onde a maioria das horas cai.
 
-![Flutter](https://img.shields.io/badge/Flutter-0C0C0B?style=flat-square&logo=flutter&logoColor=F4F2EC&labelColor=F4F2EC&color=0C0C0B)
-![Android](https://img.shields.io/badge/Android-0C0C0B?style=flat-square&logo=android&logoColor=F4F2EC&labelColor=F4F2EC&color=0C0C0B)
-![Riverpod](https://img.shields.io/badge/Riverpod-0C0C0B?style=flat-square&logo=riverpod&logoColor=F4F2EC&labelColor=F4F2EC&color=0C0C0B)
-![Drift](https://img.shields.io/badge/Drift-0C0C0B?style=flat-square&logo=sqlite&logoColor=F4F2EC&labelColor=F4F2EC&color=0C0C0B)
+![Flutter](https://img.shields.io/badge/Flutter-0C0C0B?style=flat-square&logo=flutter&logoColor=0C0C0B&labelColor=F4F2EC&color=0C0C0B)
+![Android](https://img.shields.io/badge/Android-0C0C0B?style=flat-square&logo=android&logoColor=0C0C0B&labelColor=F4F2EC&color=0C0C0B)
+![Riverpod](https://img.shields.io/badge/Riverpod-0C0C0B?style=flat-square&logo=riverpod&logoColor=0C0C0B&labelColor=F4F2EC&color=0C0C0B)
+![Drift](https://img.shields.io/badge/Drift-0C0C0B?style=flat-square&logo=sqlite&logoColor=0C0C0B&labelColor=F4F2EC&color=0C0C0B)
 
 > **⌂ a bancada** — plataforma, gráficos e as ferragens.
 
-![Linux](https://img.shields.io/badge/Linux-0C0C0B?style=flat-square&logo=linux&logoColor=F4F2EC&labelColor=F4F2EC&color=0C0C0B)
-![Nintendo Switch](https://img.shields.io/badge/Nintendo_Switch-0C0C0B?style=flat-square&logo=nintendoswitch&logoColor=F4F2EC&labelColor=F4F2EC&color=0C0C0B)
-![Vulkan](https://img.shields.io/badge/Vulkan-0C0C0B?style=flat-square&logo=vulkan&logoColor=F4F2EC&labelColor=F4F2EC&color=0C0C0B)
-![Git](https://img.shields.io/badge/Git-0C0C0B?style=flat-square&logo=git&logoColor=F4F2EC&labelColor=F4F2EC&color=0C0C0B)
-![Bash](https://img.shields.io/badge/Bash-0C0C0B?style=flat-square&logo=gnubash&logoColor=F4F2EC&labelColor=F4F2EC&color=0C0C0B)
+![Linux](https://img.shields.io/badge/Linux-0C0C0B?style=flat-square&logo=linux&logoColor=0C0C0B&labelColor=F4F2EC&color=0C0C0B)
+![Nintendo Switch](https://img.shields.io/badge/Nintendo_Switch-0C0C0B?style=flat-square&logo=nintendoswitch&logoColor=0C0C0B&labelColor=F4F2EC&color=0C0C0B)
+![Vulkan](https://img.shields.io/badge/Vulkan-0C0C0B?style=flat-square&logo=vulkan&logoColor=0C0C0B&labelColor=F4F2EC&color=0C0C0B)
+![Git](https://img.shields.io/badge/Git-0C0C0B?style=flat-square&logo=git&logoColor=0C0C0B&labelColor=F4F2EC&color=0C0C0B)
+![Bash](https://img.shields.io/badge/Bash-0C0C0B?style=flat-square&logo=gnubash&logoColor=0C0C0B&labelColor=F4F2EC&color=0C0C0B)
 
 <br/>
 
@@ -135,7 +128,7 @@ Space shooter 2D inteiro em **HTML5 Canvas + JS puro**. Sem engine — só códi
 <!-- ░ MÉTRICAS · badges shields.io (estáveis) no tema nanquim ░ -->
 <img src="https://img.shields.io/github/followers/hayatog?style=flat-square&logo=github&logoColor=0C0C0B&label=SEGUIDORES&labelColor=F4F2EC&color=7E1C1C" alt="seguidores" />
 &nbsp;
-<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fhayatog&query=%24.public_repos&style=flat-square&label=OBRAS%20P%C3%9ABLICAS&labelColor=F4F2EC&color=0C0C0B" alt="repos" />
+<img src="https://img.shields.io/badge/OBRAS_P%C3%9ABLICAS-20+-0C0C0B?style=flat-square&logo=github&logoColor=0C0C0B&labelColor=F4F2EC&color=0C0C0B" alt="repos" />
 
 <br/>
 
