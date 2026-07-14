@@ -7,21 +7,16 @@
 
 <div align="center">
 
-<!-- ░ RÓTULO DE SEÇÃO · Archivo uppercase, tracking largo ░ -->
-<img src="https://readme-typing-svg.demolab.com?font=Archivo&weight=500&size=13&duration=1&pause=99999&color=A6A49D&center=true&vCenter=true&width=420&height=24&letterSpacing=6px&lines=%E2%94%80+O+ARTES%C3%83O" alt="O ARTESÃO" />
+<!-- ░ RÓTULO · texto puro, carrega instantâneo ░ -->
+<sub>─&nbsp; **O&nbsp; A R T E S Ã O** &nbsp;─</sub>
 
-<!-- ░ NOME · Cormorant Garamond, editorial ░ -->
-<img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&weight=400&size=90&duration=99999&pause=99999&color=0C0C0B&center=true&vCenter=true&width=760&height=130&lines=hayatog" alt="hayatog" />
+<!-- ░ NOME · único SVG do topo (herói) — o resto é texto puro ░ -->
+<img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&weight=500&size=88&duration=99999&pause=99999&color=0C0C0B&center=true&vCenter=true&width=760&height=120&lines=hayatog" alt="hayatog" />
 
-<!-- ░ TRAÇO NANQUIM ░ -->
-<img src="https://readme-typing-svg.demolab.com?font=Archivo&size=1&duration=99999&pause=99999&color=DAD7CE&width=560&height=2&lines=%20" alt="" />
+---
 
-<br/>
-
-<!-- ░ QUOTE · serifa itálica, o tom monástico ░ -->
-<em>
-<img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&italic=true&weight=400&size=22&duration=99999&pause=99999&color=6F6E69&center=true&vCenter=true&width=680&height=44&lines=%E3%80%8CLevante+a+cabe%C3%A7a+e+prossiga+com+sua+vida.%E3%80%8D" alt="quote" />
-</em>
+<!-- ░ QUOTE · itálico em texto puro, sem requisição externa ░ -->
+> *「 Levante a cabeça e prossiga com sua vida. 」*
 
 <br/>
 
@@ -137,13 +132,24 @@ Space shooter 2D inteiro em **HTML5 Canvas + JS puro**. Sem engine — só códi
 
 `─────────  A  S U B I D A  ─────────`
 
-<!-- ░ STATS · tema nanquim: fundo creme, tinta preta, acento vermelho ░ -->
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=hayatog&show_icons=true&count_private=true&hide_border=true&title_color=7E1C1C&icon_color=7E1C1C&text_color=0C0C0B&bg_color=F4F2EC" alt="stats" />
+<!-- ░ MÉTRICAS · badges shields.io (estáveis) no tema nanquim ░ -->
+<img src="https://img.shields.io/github/followers/hayatog?style=flat-square&logo=github&logoColor=0C0C0B&label=SEGUIDORES&labelColor=F4F2EC&color=7E1C1C" alt="seguidores" />
 &nbsp;
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hayatog&layout=compact&hide_border=true&langs_count=8&title_color=7E1C1C&text_color=0C0C0B&bg_color=F4F2EC" alt="top langs" />
+<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fhayatog&query=%24.public_repos&style=flat-square&label=OBRAS%20P%C3%9ABLICAS&labelColor=F4F2EC&color=0C0C0B" alt="repos" />
 
 <br/>
 
+<!-- ░ Estrelas colhidas nos ports/decomps de maior fôlego ░ -->
+<img src="https://img.shields.io/github/stars/hayatog/dusklight?style=flat-square&logo=github&logoColor=0C0C0B&label=%E2%98%85%20dusklight&labelColor=F4F2EC&color=7E1C1C" alt="stars dusklight" />
+&nbsp;
+<img src="https://img.shields.io/github/stars/hayatog/tmc?style=flat-square&logo=github&logoColor=0C0C0B&label=%E2%98%85%20tmc&labelColor=F4F2EC&color=7E1C1C" alt="stars tmc" />
+&nbsp;
+<img src="https://img.shields.io/github/stars/hayatog/switch-nvk?style=flat-square&logo=github&logoColor=0C0C0B&label=%E2%98%85%20switch-nvk&labelColor=F4F2EC&color=7E1C1C" alt="stars switch-nvk" />
+
+<br/>
+<br/>
+
+<!-- ░ STREAK · serviço estável, tema creme/nanquim ░ -->
 <img src="https://streak-stats.demolab.com?user=hayatog&hide_border=true&background=F4F2EC&stroke=DAD7CE&ring=7E1C1C&fire=7E1C1C&currStreakLabel=7E1C1C&sideLabels=0C0C0B&dates=A6A49D&currStreakNum=0C0C0B&sideNums=0C0C0B&dayLabels=6F6E69" alt="streak" />
 
 </div>
